@@ -1,0 +1,8 @@
+[user]
+	email = mark.aaju@gmail.com
+	name = Mark Larsen
+[credential]
+	helper = osxkeychain
+[alias]
+[alias]
+	gud = !exec echo \"GIT GUD YOU SCRUB!\"
